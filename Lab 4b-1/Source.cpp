@@ -15,7 +15,7 @@ int main() {
 		}
 		else if (temp == 0)
 		{
-			cout << "Water is a solid.";
+			cout << "Water is a solid and a liquid.";
 		}
 		else if (temp > 0 && temp < 100)
 		{
@@ -38,7 +38,7 @@ int main() {
 		}
 		else if (temp == 32)
 		{
-			cout << "Water is a solid.";
+			cout << "Water is a solid and liquid.";
 		}
 		else if (temp > 32 && temp < 212)
 		{
